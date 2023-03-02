@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O profile-links é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/Waz33/Profile-links)
+- [Acesse o projeto finalizado, online](https://charming-fairy-559f7e.netlify.app)
 
 ## :memo: Licença
 
